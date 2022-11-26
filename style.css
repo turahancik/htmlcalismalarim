@@ -1,0 +1,16 @@
+h1 {
+    color: #150050 ;
+}
+body {
+    background-color: #e1b3e2;
+}
+p {
+    color: #3F0071;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2.062em;
+}
+nav {
+    text-align: right;
+    font-size:1.750em;
+    color: rgb(1, 14, 26);
+}
